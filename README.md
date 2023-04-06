@@ -161,7 +161,7 @@ python HSC_training.py --dataset Mixture0102 --gpu 0
 
 ## Inference
 
-> Check the configurations of datasets in `config/`, e.g. `ShanghaiTech.yaml`, the configurations of mixture datasets can be referred to ShanghaiTech.
+> Check the configurations of datasets in `config/`, e.g. `ShanghaiTech.yaml`
 
 > If you would like to use the motion augmentation mode, you can set the `augmentMotion` to `true` in the yaml file.
 

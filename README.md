@@ -217,11 +217,13 @@ This repo is released under the MIT License.
 
 If this repo is useful for your research, please consider citing our paper:
 ```bibtex
-@article{sun2023hierarchical,
-      title={Hierarchical Semantic Contrast for Scene-aware Video Anomaly Detection}, 
-      author={Shengyang Sun and Xiaojin Gong},
-      year={2023},
-      journal={arXiv preprint arXiv:2303.13051},
+@InProceedings{sun2023hierarchical,
+    author    = {Sun, Shengyang and Gong, Xiaojin},
+    title     = {Hierarchical Semantic Contrast for Scene-Aware Video Anomaly Detection},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    month     = {June},
+    year      = {2023},
+    pages     = {22846-22856}
 }
 ```
 
